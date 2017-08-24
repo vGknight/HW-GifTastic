@@ -1,6 +1,6 @@
 apiKey = "0537550b36da48a4947415046708cf2d";
 rating = "&rating=pg"
-limit = "&rating12"
+limit = "&limit=12"
 animals = ["Swordfish", "Goat", "Skunk", "Beaver", "Squirrel", "Cat", "Dog", "Lizard", "Sparrow", "Sasquatch", "Monkey", "Hippo", "Minnow", "Elephant"];
 // build buttons dymanically from this array
 $(document).ready(function() {
